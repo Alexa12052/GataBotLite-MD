@@ -33,7 +33,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 
 // ES ➜ Agregue el código de idioma el cual usará GataBot  
 // EN ➜ Add the language code which GataBot will use
-//  es = Español      id = Bahasa Indonesia       ar = عرب
+//  es = Español      id = Español       ar = عرب
 //  en = English      pt = Português              de = Deutsch
 //  it = Italiano
 global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
@@ -103,7 +103,7 @@ global.official = [
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
-global.desc = '' //agrega una descripción corta
+global.desc = '' // Team Multi Galaxy 
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
@@ -182,7 +182,7 @@ global.htka = '*☪ ••••̩̩͙⊰•⭑*'
 global.htjava = '⫹⫺'
 global.correct = '✅'
 global.fault = '💔'
-global.alert = '⚠️'
+global.alert = '🚨'
 global.sending = '📋'
 global.sent = '❇️'
 global.notsent = '❗'
